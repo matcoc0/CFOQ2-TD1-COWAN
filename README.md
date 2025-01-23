@@ -2,7 +2,7 @@
 This is the first TD coded and implemented by Mathieu Cowan
 
 # Decentralized Technologies Workshop2 
-Hugo Bonnell - CDOF4
+Mathieu Cowan - CFOQ2
 
 ## Objectives
 - Understand the pros and cons of the BitTorrent, IPFS, Filecoin, and Arweave protocols.
